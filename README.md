@@ -78,7 +78,6 @@ Pipeline steps:
 
 ### Best Model
 - **Gradient Boosting Classifier**:
-  - Validation F1-score: `0.472`
   - Hyperparameters: Learning rate = `0.1`, Estimators = `200`
 
 ---
