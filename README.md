@@ -105,7 +105,4 @@ The project includes a **Streamlit web application** for user interaction.
 2. **Modify Inputs**: Change feature values to see how predictions change.
 3. **Visualize Results**: View feature importance and prediction results interactively.
 
-### How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/bank-marketing-predictor.git
+
