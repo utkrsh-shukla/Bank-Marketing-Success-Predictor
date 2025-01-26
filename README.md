@@ -3,6 +3,9 @@
 **Web App Link**: [Bank-Marketing-Success-Predictor](https://utkarsh-s-prophecy.streamlit.app/)
 
 
+**Kaggle Notebook Link**(https://www.kaggle.com/code/utkarshshkla/21f2001497-notebook-t32024)
+
+
 ## 📋 Table of Contents
 - [Overview](#overview)
 - [Dataset](#dataset)
