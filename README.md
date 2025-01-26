@@ -1,6 +1,6 @@
 # 📈 Bank Marketing Success Predictor
 
-https://utkarsh-s-prophecy.streamlit.app/
+**Web App Link**: [Bank-Marketing-Success-Predictor](https://utkarsh-s-prophecy.streamlit.app/)
 
 
 ## 📋 Table of Contents
